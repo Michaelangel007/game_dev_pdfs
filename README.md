@@ -45,7 +45,7 @@
 ## OSX
 
 ```
-brew install git-lfs`
+brew install git-lfs
 git lfs install
 git lfs track "*.pdf"
 ```
