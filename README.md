@@ -16,6 +16,12 @@
 
 <hr>
 
+|Mathematics|
+|:----------|
+|[Quaternions, Bivectors - A Bigger Mathematical Picture for Computer Graphics](mathematics/wscg12_lengyel.pdf)|
+
+<hr>
+
 |Memory|
 |:-----|
 |[Memory Optimization](memory/GDC2003_Memory_Optimization_18Mar03.pdf)|
@@ -36,7 +42,7 @@
 
 |Physics|
 |:------|
-|[Numerical Integration](physics/04-GDC09_Catto_Erin_Solver.pdf)|
+|[Constraints Solver Numerical Integration](physics/04-GDC09_Catto_Erin_Solver.pdf)|
 
 ## Git Large File Storage
 
