@@ -18,6 +18,7 @@
 
 |Mathematics|
 |:----------|
+|[Imaginary Numbers are not Real — the Geometric Algebra of Spacetime](mathematics/ImagNumbersArentReal.pdf)|
 |[Quaternions, Bivectors, Clifford Algebra - A Bigger Mathematical Picture for Computer Graphics](mathematics/wscg12_lengyel.pdf)|
 |[Synopsis of Geometric Algebra](mathematics/NFMPchapt1.pdf)
 
