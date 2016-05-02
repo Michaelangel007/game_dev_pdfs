@@ -1,5 +1,8 @@
 # Game Development PDF Whitepapers
 
+This index is currently out-of-date. Browse the directory structure manually
+to see what is currently in the library.
+
 ## Index
 
 |C++|
@@ -20,7 +23,7 @@
 |:----------|
 |[Imaginary Numbers are not Real — the Geometric Algebra of Spacetime](mathematics/ImagNumbersArentReal.pdf)|
 |[Quaternions, Bivectors, Clifford Algebra - A Bigger Mathematical Picture for Computer Graphics](mathematics/wscg12_lengyel.pdf)|
-|[Synopsis of Geometric Algebra](mathematics/NFMPchapt1.pdf)
+|[Synopsis of Geometric Algebra](mathematics/New_Foundations_for_Classical_Mechanics-D_Hestenes_NFMPchapt1.pdf)
 
 <hr>
 
