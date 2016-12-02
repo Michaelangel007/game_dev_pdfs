@@ -16,6 +16,7 @@ to see what is currently in the library.
 |[Global Illumination, Irradience](graphics/SIGGRAPH_2015_Remedy.pdf)|
 |[Team Fortress Rendering Style](graphics/NPAR07_IllustrativeRenderingInTeamFortress2.pdf)|
 |[Verification of Physicall Based Rendering](graphics/Verification of Physically Based Rendering Algorithms 10.1.1.230.9058.pdf)|
+|[Physically-Based Shading at Disney](https://disney-animation.s3.amazonaws.com/library/s2012_pbs_disney_brdf_notes_v2.pdf)|
 
 <hr>
 
@@ -42,6 +43,11 @@ to see what is currently in the library.
 |Networking|
 |:---------|
 |[Beej's Networking Guide](networking/bgnet_USLetter_2.pdf)|
+
+<hr>
+|Optimization|
+|[Ogre 2.0](http://www.ogre3d.org/forums/viewtopic.php?f=4&t=75459)|
+
 
 <hr>
 
